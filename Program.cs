@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CS1405_Lab
+namespace CS14X5_Lab
 {
     class Program
     {
